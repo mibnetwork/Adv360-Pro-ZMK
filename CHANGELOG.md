@@ -3,6 +3,7 @@ Here's all notable changes and commits to both the configuration repo and the ba
 
 Many thanks to all those who have submitted issues and pull requests to make this firmware better!
 ## Config repo
+6/1/2024 -  Basis setup
 
 4/16/2024 - Fix changelog dates [#448](https://github.com/KinesisCorporation/Adv360-Pro-ZMK/pull/448)
 
